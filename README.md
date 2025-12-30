@@ -1,4 +1,4 @@
-Discord Server Cloner (Selfbot)
+**Discord Server Cloner (Selfbot)**
 Aviso Importante
 
 Este proyecto es solo con fines educativos y de aprendizaje.
@@ -28,11 +28,9 @@ Conserva el orden original del servidor
 
 Automatización completa del proceso
 
-Basado en discord.js-selfbot-v13
 
 Requisitos
 
-Node.js versión 16 o superior
 
 Una cuenta de Discord
 
